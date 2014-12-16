@@ -1,0 +1,4 @@
+ContactsTool
+============
+
+remove duplicate contacts
